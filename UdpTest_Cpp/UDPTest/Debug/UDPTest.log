@@ -1,0 +1,4 @@
+﻿  UdpNetSrv.cpp
+E:\Geek7Workspace\cpp\UDPTest\UDPTest\UdpNetSrv.h(3,1): warning C4005: “_WINSOCK_DEPRECATED_NO_WARNINGS”: 宏重定义
+E:\Geek7Workspace\cpp\UDPTest\UDPTest\UdpNetSrv.cpp : message : 参见“_WINSOCK_DEPRECATED_NO_WARNINGS”的前一个定义
+  UDPTest.vcxproj -> E:\Geek7Workspace\cpp\UDPTest\Debug\UDPTest.exe

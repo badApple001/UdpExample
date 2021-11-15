@@ -1,0 +1,16 @@
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\UDP_TEST.exe
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\UDP_TEST.deps.json
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\UDP_TEST.runtimeconfig.json
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\UDP_TEST.runtimeconfig.dev.json
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\UDP_TEST.dll
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\UDP_TEST.pdb
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.AssemblyInfoInputs.cache
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.AssemblyInfo.cs
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.csproj.CoreCompileInputs.cache
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.dll
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.pdb
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.genruntimeconfig.cache
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\protobuf-net.dll
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
+E:\Geek7Workspace\CSharp\UDP_TEST\UDP_TEST\obj\Debug\netcoreapp3.1\UDP_TEST.csproj.CopyComplete

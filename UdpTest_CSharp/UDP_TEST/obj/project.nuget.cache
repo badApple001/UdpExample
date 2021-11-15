@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFNJfVSC1IPBFqNRN9WsW2QBGZN5QhQa8RANc6Knxj6am6QZq9KvJZRzNJAP3esv7tY6X3GmerauBkrAxXVNFQ==",
+  "success": true,
+  "projectFilePath": "E:\\Geek7Workspace\\CSharp\\UDP_TEST\\UDP_TEST\\UDP_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EDZ\\.nuget\\packages\\google.protobuf\\3.19.1\\google.protobuf.3.19.1.nupkg.sha512",
+    "C:\\Users\\EDZ\\.nuget\\packages\\protobuf-net\\3.0.101\\protobuf-net.3.0.101.nupkg.sha512",
+    "C:\\Users\\EDZ\\.nuget\\packages\\protobuf-net.core\\3.0.101\\protobuf-net.core.3.0.101.nupkg.sha512",
+    "C:\\Users\\EDZ\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\EDZ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

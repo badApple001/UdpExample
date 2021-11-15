@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(504,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  UdpNetClient.cpp
+E:\Geek7Workspace\cpp\UDPTest\UdpNetClient\UdpNetClient.cpp(10,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  UdpNetClient.vcxproj -> E:\Geek7Workspace\cpp\UDPTest\bin\UdpNetClient.exe
